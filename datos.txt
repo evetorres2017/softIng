@@ -1,0 +1,6 @@
+Write correctly the following numbers.
+
+Write correctly the colors shown below.
+
+accept
+restore
